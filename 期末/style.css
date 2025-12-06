@@ -1,0 +1,14 @@
+#myGraph, #myGraph2, #myGraph3, #myGraph4 {
+  /* width: 500px; */
+  /* height: 500px; */
+  border: 1px solid gray;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 25%;
+  padding: 5px;
+}
